@@ -1,0 +1,23 @@
+Log file created at: 2016/06/19 16:24:45
+Running on machine: 130.193.35.95-vpn.dhcp.yndx.net
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0619 16:24:45.834087 2021564416 helpers.cc:208] File already exists: batches/aaaaaa.batch
+W0619 16:24:45.885728 2021564416 helpers.cc:208] File already exists: batches/aaaaab.batch
+W0619 16:24:45.947290 2021564416 helpers.cc:208] File already exists: batches/aaaaac.batch
+W0619 16:24:46.002514 2021564416 helpers.cc:208] File already exists: batches/aaaaad.batch
+W0619 16:24:46.051895 2021564416 helpers.cc:208] File already exists: batches/aaaaae.batch
+W0619 16:24:46.109462 2021564416 helpers.cc:208] File already exists: batches/aaaaaf.batch
+W0619 16:24:46.196213 2021564416 helpers.cc:208] File already exists: batches/aaaaag.batch
+W0619 16:24:46.266811 2021564416 helpers.cc:208] File already exists: batches/aaaaah.batch
+W0619 16:24:46.325462 2021564416 helpers.cc:208] File already exists: batches/aaaaai.batch
+W0619 16:24:46.460253 2021564416 helpers.cc:208] File already exists: batches/aaaaaj.batch
+W0619 16:24:46.716390 2021564416 helpers.cc:208] File already exists: batches/aaaaak.batch
+W0619 16:24:46.956174 2021564416 helpers.cc:208] File already exists: batches/aaaaal.batch
+W0619 16:24:47.215070 2021564416 helpers.cc:208] File already exists: batches/aaaaam.batch
+W0619 16:24:47.445979 2021564416 helpers.cc:208] File already exists: batches/aaaaan.batch
+W0619 16:24:47.701647 2021564416 helpers.cc:208] File already exists: batches/aaaaao.batch
+W0619 16:24:47.867733 2021564416 helpers.cc:208] File already exists: batches/aaaaap.batch
+W0619 16:24:47.907440 2021564416 helpers.cc:208] File already exists: batches/aaaaaq.batch
+W0619 16:24:47.918758 2021564416 helpers.cc:208] File already exists: batches/aaaaar.batch
+W0619 16:42:31.742470 2021564416 check_messages.h:833] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
+W0619 16:44:57.623273 2021564416 check_messages.h:833] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;

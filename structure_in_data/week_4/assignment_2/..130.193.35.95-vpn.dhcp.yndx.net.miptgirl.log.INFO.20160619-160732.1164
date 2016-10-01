@@ -1,0 +1,4 @@
+Log file created at: 2016/06/19 16:07:32
+Running on machine: 130.193.35.95-vpn.dhcp.yndx.net
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0619 16:07:32.717273 2021564416 c_interface.cc:74] Logging enabled to .
