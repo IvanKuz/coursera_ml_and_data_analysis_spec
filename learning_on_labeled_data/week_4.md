@@ -8,6 +8,7 @@
  * _Слайды_ [Композиции деревьев](week_4/materials/composici-dereviev-Slides.pdf): _композиции алгоритмов, смещение и разброс, случайные леса, трюки со случайными лесами_
  * _Notebook_ [Случайные леса в sklearn](week_4/notebooks/sklearn.random_forest.ipynb)
  * _Data_ [Случайные леса в sklearn_данные](week_4/materials/bioresponse.csv)
+ * _Конспект_ [Случайные леса](week_4/materials/4-2.Sluchajnye_lesa.pdf):
 
 ### [Assignment](week_4/assignment_1/Bagging_and_random_forest.ipynb) Бэггинг и случайный лес
 В этом задании рассмотрим бэггинг и случайный лес на примере датасета digits (классификация цифр по изображениям 8x8).Для оценки качества далее нужно будет использовать кросс-валидацию k-fold.
